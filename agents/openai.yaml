@@ -1,0 +1,4 @@
+interface:
+  display_name: "Tibo Bot 風格頭像"
+  short_description: "將照片或角色圖轉成 Tibo Bot 風格的 2D 頭像"
+  default_prompt: "請用 $tibo-bot 把上傳的照片做成平面 Bot 頭像，保留原本衣服，加淡粉腮紅。"
